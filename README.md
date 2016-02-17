@@ -1,4 +1,4 @@
-# Solidus app bootstrap
+# Solidus app bootstrap. WARNING! This repo is deprecated and no longer maintained. Use [Solidify](https://github.com/s-kanukov/solidify) instead.
 
 This is a basic Solidus app to use as a starting point for your new e-commerce applications.
 
